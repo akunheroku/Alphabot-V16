@@ -28,14 +28,14 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "𝙱𝙰𝚁𝙾𝙽 𝙱𝙾𝚃𝚉" //namabot kalian
 global.ownername= "𝙱𝙰𝚁𝙾𝙽" //nama kalian
-global.myweb ="https://www.instagram.com/p/CdV8-YWvzWV" //bebas asal jan hapus
+global.myweb ="https://www.instagram.com" //bebas asal jan hapus
 global.youtube = "https://www.instagram.com/p/CdV8-YWvzWV/?igshid=NDk5N2NlZjQ=" //bebas asal jan hapus
 global.myweb2 = "https://instagram.com/dhen.bagusht?igshid=NDk5N2NlZjQ=" //bebas
 global.email = "baron@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6282230397507'] //premium user
-global.owner = ["6282230397507","6283169648444"] //ganti agar fitur owner bisa di gunakan
+global.owner = ["6282230397507","6282230397507"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6282230397507" // nomor wa kalian
 global.ownernomerr = "6282230397507" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
