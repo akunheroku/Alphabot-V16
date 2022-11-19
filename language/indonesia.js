@@ -1714,7 +1714,7 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ╰❒ !sound70
 
 ╭─❒ 「 TqTo 」 
-│○ My God
+│○ Baron
 │○ My Parents
 │○ Fatih A.
 │○ Ferdi
@@ -1740,7 +1740,6 @@ exports.rules = (prefix) => {
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
 🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
 
 🗯️ Boleh saya menambah ke grup?
 ➡️ Untuk itu tergantung dari owner bot sendiri
@@ -1769,11 +1768,9 @@ exports.leave = () =>{
 Goodbye`
 }
 exports.source = () =>{
-return`*------「 MAU SC JOIN 」 ------*
+return`*------「 MAU SC? 」 ------*
 
-GRUP1: https://chat.whatsapp.com/FM7pIjOxQKOFqDsEVrDEdz
-
-GRUP2: https://chat.whatsapp.com/JkdB3gSCwCRGgOdCRfkAt1
+CHAT OWNER
 `
 }
 exports.tos = (ownernomer) => {
@@ -1781,10 +1778,10 @@ exports.tos = (ownernomer) => {
 〔 Dᴏɴ'ᴛ ғᴏʀɢᴇᴛ Dᴏɴᴀᴛɪᴏɴ 〕
 
 ››╭─〘 *Donasi* 〙
-╭╡📮: Donasi Untuk Dimas
-│┝‷✧ *Ovo:* 083169648444
-│┝‷✧ *Dana:* 083169648444
-│┝‷✧ *Pulsa:* 083169648444
+╭╡📮: Donasi Untuk Pembuat Bot
+│┝‷✧ *Gopay:* 082230397507
+│┝‷✧ *Dana:* 082230397507
+│┝‷✧ *Pulsa:* 082230397507
 │╰───···─────
 │⁺◛˖ Arigatou Gozaimasu
 ╰──────────···───╮
